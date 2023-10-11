@@ -32,7 +32,7 @@ public class ComparasionService {
 			SdkBytes sourceBytes = SdkBytes
 					.fromByteArray(Base64.getDecoder().decode(photo1.substring(photo1.indexOf(',') + 1)));
 			SdkBytes targetBytes = SdkBytes
-					.fromByteArray(Base64.getDecoder().decode(photo1.substring(photo1.indexOf(',') + 1)));
+					.fromByteArray(Base64.getDecoder().decode(photo2.substring(photo2.indexOf(',') + 1)));
 
 			// Create an Image object for the source image.
 			Image souImage = Image.builder().bytes(sourceBytes).build();
