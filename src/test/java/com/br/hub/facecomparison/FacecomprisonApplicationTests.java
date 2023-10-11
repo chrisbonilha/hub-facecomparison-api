@@ -1,4 +1,4 @@
-package com.br.hub.facecomprison;
+package com.br.hub.facecomparison;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
