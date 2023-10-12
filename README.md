@@ -21,10 +21,3 @@ First, you need to have Java 17 and Maven installed on your computer. After that
 
 ## Test without clone :)
 Just access: [https://chrisbonilha.github.io/hub-facecomparison-api](https://chrisbonilha.github.io/hub-facecomparison-api)
-
-## Next steps
-1. Enhance frontend style
-2. Implement some JUnit tests
-3. Set up Docker and docker-compose for building and launching with a single command.
-
-Can you help? Feel free to contribute :)
